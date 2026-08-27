@@ -5,6 +5,9 @@ A deep learning research prototype for classifying liver MRI images into five ca
 
 > ⚠️ **Disclaimer:** This project is an educational/research prototype and is **not a clinically validated medical diagnostic system**. Predictions should not be used for medical diagnosis or treatment decisions.
 
+![Sample MRI Images](assets/data_example.png)
+
+
 ---
 
 ## 📌 Overview
@@ -167,7 +170,11 @@ Test Batches       : 38
 
 Example images from the five classes:
 
-![Sample MRI Images](assets/data_example.png)
+| Angiosarcoma | Cholangiocarcinoma | Healthy | Hemangioma | Hepatocellular Carcinoma |
+|---|---|---|---|---|
+| <img src="samples/Angiosarcoma/1.jpg" width="200"> | <img src="samples/Cholangiocarcinoma/1.jpg" width="200"> | <img src="samples/Healthy/1.jpg" width="200"> | <img src="samples/Hemangioma/1.jpg" width="200"> | <img src="samples/Hepatocellular_Carcinoma/1.jpg" width="200"> |
+| <img src="samples/Angiosarcoma/2.jpg" width="200"> | <img src="samples/Cholangiocarcinoma/2.jpg" width="200"> | <img src="samples/Healthy/2.jpg" width="200"> | <img src="samples/Hemangioma/2.jpg" width="200"> | <img src="samples/Hepatocellular_Carcinoma/2.jpg" width="200"> |
+| <img src="samples/Angiosarcoma/3.jpg" width="200"> | <img src="samples/Cholangiocarcinoma/3.jpg" width="200"> | <img src="samples/Healthy/3.jpg" width="200"> | <img src="samples/Hemangioma/3.jpg" width="200"> | <img src="samples/Hepatocellular_Carcinoma/3.jpg" width="200"> |
 
 The examples demonstrate the visual diversity of the image classification task.
 
