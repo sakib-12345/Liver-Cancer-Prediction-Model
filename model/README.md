@@ -1,5 +1,7 @@
 # 🧠 Trained Model
 
+**You can find the model in repo releases [here](https://github.com/sakib-12345/Liver-Cancer-Prediction-Model/releases/tag/v0.0.1) or [direct download](https://github.com/sakib-12345/Liver-Cancer-Prediction-Model/releases/download/v0.0.1/model.pth)**
+
 This folder contains the trained **EfficientNetV2-S** model used for the liver MRI multi-class classification project.
 
 ### Model
